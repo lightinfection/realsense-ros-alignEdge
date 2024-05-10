@@ -47,7 +47,7 @@ Please refer to the official guideline to know the basic [realsense-ros](./reals
    ```
 2. Setup [parameters](./camera_edge/launch/camera_edge.launch.py)
     
-    #### **Main realsense-ROS parameters (not polished, for all parameters, please refer to realsense-ros pkg as well) **
+    #### **Main realsense-ROS parameters (not polished, for all parameters, please refer to realsense-ros pkg as well)**
 
     * `serial_no` - [string]  
     Serial number of the realsense camera    
